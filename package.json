@@ -1,0 +1,19 @@
+{
+  "name": "mister_tee",
+  "version": "0.0.0",
+  "description": "Gets input and send it to out and txt file",
+  "main": "tee.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sirjerky/mister_tee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirjerky/mister_tee/issues"
+  },
+  "homepage": "https://github.com/sirjerky/mister_tee"
+}
